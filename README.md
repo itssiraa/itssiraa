@@ -26,7 +26,8 @@ Plateforme inspirée de Steam permettant la gestion et la distribution de jeux v
 - Communication asynchrone avec Kafka / Kafka Streams  
 - Gestion d’événements en temps réel (activité joueurs, crashs, patchs, DLC)  
 - API REST et logique métier  
-- Tests et système de logs pour le suivi des services  
+- Tests et système de logs pour le suivi des services
+- Lien vers le repository [https://github.com/itssiraa/Projet_Plateforme_Jeux_Video]
 
 **Compétences :** Microservices, Event-driven architecture, Java, Kafka, API REST  
 
