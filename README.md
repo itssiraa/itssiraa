@@ -1,14 +1,12 @@
 # 👋 Salut, moi c’est Sira
 
-🎓 Étudiante ingénieure en informatique
-💻 Intéressée par l'administration des systèmes et réseaux, la cybersécurité, le cloud
-🚀 Objectif actuel : monter en compétences et décrocher un stage en informatique
+🎓 Étudiante ingénieure en informatique  💻 Intéressée par l'administration des systèmes et réseaux, la cybersécurité, le cloud  🚀 Objectif actuel : monter en compétences et décrocher un stage en informatique
 
 ---
 
 ## 🧰 Compétences
 
-***Langages :*** C, C++, Java, Python, PHP, SQL, TypeScript  
+***Langages : C, C++, Java, Python, PHP, SQL, TypeScript  
 **Web :** HTML, CSS, Bootstrap, React, Spring Boot  
 **Systèmes & Réseaux :** Linux, Windows, VLAN, STP, DNS, Apache  
 **DevOps :** Git, Docker, Kubernetes  
