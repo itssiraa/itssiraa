@@ -8,7 +8,7 @@
 
 ## 🧰 Compétences
 
-**Langages :** C, C++, Java, Python, PHP, SQL, TypeScript  
+*Langages :* C, C++, Java, Python, PHP, SQL, TypeScript  
 **Web :** HTML, CSS, Bootstrap, React, Spring Boot  
 **Systèmes & Réseaux :** Linux, Windows, VLAN, STP, DNS, Apache  
 **DevOps :** Git, Docker, Kubernetes  
