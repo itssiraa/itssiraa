@@ -89,7 +89,8 @@ Implémentation d’un shell Unix simplifié.
 - Parsing des commandes et gestion des arguments  
 - Appels système : `fork()`, `exec()`, `wait()`  
 - Redirections (`>`, `<`, `>>`) et pipes (`|`)  
-- Commandes internes (cd, exit, env)  
+- Commandes internes (cd, exit, env)
+- Lien vers repository [https://github.com/itssiraa/Shell-minimaliste]
 
 **Compétences :** Programmation système, Linux, C, gestion des processus  
 
