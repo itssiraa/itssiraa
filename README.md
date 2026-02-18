@@ -42,7 +42,8 @@ Mise en œuvre de mécanismes de sécurité applicative et réseau.
 - Cryptographie : hachage, chiffrement symétrique/asymétrique, signatures (OpenSSL)  
 - Exploitation et correction d’une faille XSS stockée (PHP, OWASP)  
 - Déploiement sécurisé avec SSL/TLS, certificats et CA locale (Apache)  
-- Analyse de vulnérabilités et bonnes pratiques  
+- Analyse de vulnérabilités et bonnes pratiques
+- Lien vers le repository [https://github.com/itssiraa/system-security-labs]
 
 **Compétences :** Sécurité web, cryptographie, TLS, analyse de vulnérabilités  
 
@@ -56,7 +57,8 @@ Développement d’un jeu en programmation orientée objet.
 **Points clés :**
 - Modélisation UML (diagramme de classes)  
 - Implémentation des principes POO : héritage, polymorphisme, encapsulation  
-- Architecture modulaire  
+- Architecture modulaire
+- Lien vers le repository [https://github.com/itssiraa/Hero-Realms]
 
 **Compétences :** C++, conception logicielle, UML  
 
@@ -71,7 +73,8 @@ Application web complète avec backend, frontend et base de données.
 - Gestion de projet Agile (Jira) et prototypage (Figma)  
 - Backend Spring Boot (Java)  
 - Frontend React.js  
-- Base de données conteneurisée avec Docker  
+- Base de données conteneurisée avec Docker
+- Lien vers le repository [https://github.com/itssiraa/ProjetSuiviMedical]
 
 **Compétences :** Full-stack, API REST, Docker, Agile  
 
