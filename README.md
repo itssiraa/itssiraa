@@ -33,7 +33,7 @@ Plateforme inspirée de Steam permettant la gestion et la distribution de jeux v
 
 ---
 
-### 🔐 Travaux pratiques – Sécurité des systèmes
+### 🔐 Sécurité des systèmes
 📅 Janvier 2026  
 
 Mise en œuvre de mécanismes de sécurité applicative et réseau.
