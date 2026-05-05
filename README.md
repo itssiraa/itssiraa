@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Sira
 
-🎓 Étudiante ingénieure en informatique<br>💻 Intéressée par l'administration des systèmes et réseaux, la cybersécurité, le cloud <br>🚀 Objectif actuel : monter en compétences et décrocher un stage en informatique
+🎓 Étudiante ingénieure en informatique<br>💻 Intéressée par l'administration des systèmes et réseaux, la cybersécurité, le cloud <br>🚀 Objectif actuel : monter en compétences et décrocher une alternance en informatique
 
 ---
 
